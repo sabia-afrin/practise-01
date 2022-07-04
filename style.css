@@ -1,0 +1,39 @@
+*{
+ margin: 0;
+ font-family: cursive
+}
+.red{
+ color: ;
+ font-size: 50px;
+}
+.one{
+ display: flex;
+  height: 50%;
+  margin:;
+}
+.first-para{
+ width: 50%;
+ padding: 2rem;
+ margin:0 20px 0 0;
+}
+.dream{
+ background-image: url(./images/shapes/7.png);
+ background-repeat: no-repeat;
+}
+div{
+border: 2px solid red;
+}
+.first-para img{
+ width: 50%;
+}
+.first-btn a{
+text-decoration: none;
+color: white;
+}
+.first-btn{
+ padding: 10px 20px;
+ background-image: linear-gradient(to left,  orange,red);
+ border-radius: 5px ;
+ border: transparent;
+
+}
